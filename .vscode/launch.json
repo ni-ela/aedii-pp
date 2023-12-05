@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/stoodi/github/aedii-pp/pp2",
-      "program": "/Users/stoodi/github/aedii-pp/pp2/build/Debug/outDebug"
+      "cwd": "/Users/stoodi/github/aedii-pp/PP1-DanielaFerreira-EmanueleSouza",
+      "program": "/Users/stoodi/github/aedii-pp/PP1-DanielaFerreira-EmanueleSouza/build/Debug/outDebug"
     }
   ]
 }
